@@ -5,7 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=Haseeb467&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+## 🚀 About Me
 
+- 🔭 Currently building **AI Agents & Automation Systems**
+- 🌱 Learning **Advanced Agentic AI, LangChain, Gemini**
+- 💬 Ask me about **Next.js, React, Node.js, AI Agents**
+- 📫 How to reach me: your@email.com
+- ⚡ Fun fact: I automate things before doing them manually 😎
 
 
 

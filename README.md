@@ -46,11 +46,12 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/haseeb-maqsood-069b66243)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://haseebdevportfolio.vercel.app)
 
 
 
+<!--
 - 👋 Hi, I’m @Haseeb467
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning all Language 
@@ -59,7 +60,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+
 Haseeb467/Haseeb467 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

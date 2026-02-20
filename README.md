@@ -7,11 +7,13 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **AI Agents & Automation Systems**
+- 🔭Currently architecting intelligent agents using Crew AI, LangChain & OpenAI Agent SDK.AI Agents & Automation Systems**
 - 🌱 Learning **Advanced Agentic AI, LangChain, Gemini**
-- 💬 Ask me about **Next.js, React, Node.js, AI Agents**
-- 📫 How to reach me: your@email.com
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Next.js, React, Node.js, AI Agents, Python, Fast API **
+- 📫 How to reach me: haseebdev786@gmail.com
 - ⚡ Fun fact: I automate things before doing them manually 😎
+- 💬 Favorite quote: "Great developers aren't scared of AI—they're scared of staying stagnant."
+
 
 
 ## 🛠 Tech Stack
